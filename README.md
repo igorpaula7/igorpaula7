@@ -2,8 +2,8 @@
 
 <div align="center" style="width:70%">
   <a href="https://github.com/igorpaula7">
-  <img height="180em" style="width:70%" src="https://github-readme-stats.vercel.app/api?username=igorpaula7&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" style="width:70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorpaula7&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" style="width:70%" src="https://github-readme-stats.vercel.app/api?username=igorpaula7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" style="width:70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorpaula7&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### Estudando atualmente:
