@@ -1,5 +1,7 @@
 ### Hello World!
 
+<img align="center" src="https://github-readme-stats-igorpaula7.vercel.app/api?username=igorpaula7a&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Igu github stats" /><img align="center" src="https://github-readme-stats-igorpaula7.vercel.app/api/top-langs/?username=igorpaula7&layout=compact&theme=buefy&hide_border=true" />
+
 ### Estudando atualmente:
 <div style="display:inline_block">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
