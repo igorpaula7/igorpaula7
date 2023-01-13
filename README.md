@@ -1,11 +1,5 @@
 ### Hello World!
 
-<div align="center" style="display: inline_block">
-  <a href="https://github.com/igorpaula7">
-  <img height="170em" src="https://github-readme-status-mu.vercel.app/api?username=igorpaula7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-status-mu.vercel.app/api/top-langs/?username=igorpaula7&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ### Estudando atualmente:
 <div style="display:inline_block">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
